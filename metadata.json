@@ -1,0 +1,8 @@
+{
+  "name": "Lulu & Lala - Shared Love Space",
+  "description": "A synchronized, romantic full-stack PWA for Lulu & Lala to share tasks, goals, memories, and chat in harmony.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
